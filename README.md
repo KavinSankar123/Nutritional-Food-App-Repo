@@ -2,7 +2,7 @@
 
 ## Project Description
 * We want to create a website that allows the user to input food items and receive the nutritional value of it using the **Food Central API**
-  * [GitHub](https://fdc.nal.usda.gov/api-guide.html)
+  * [API Link](https://fdc.nal.usda.gov/api-guide.html)
 * This will require us to learn the basics of API, web development, and databases
 
 ## Team Information
