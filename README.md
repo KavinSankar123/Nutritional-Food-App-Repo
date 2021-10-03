@@ -24,5 +24,5 @@ Shreya Agrawal
 
 Charandeep Kota
 * Pitt CS, 2024
-* pitt email
+* chk139@pitt.edu
 * charandeep#3511 in discord
