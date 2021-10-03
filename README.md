@@ -14,12 +14,12 @@ Kavin Sankar
 
 Anita Kaul
 * Pitt CS, 2025
-* pitt email
+* ank249@pitt.edu
 * discord username (optional)
 
 Shreya Agrawal
 * Pitt CS, 2024
-* Pitt email
+* sha94@pitt.edu
 * discord username (optional)
 
 Charandeep Kota
